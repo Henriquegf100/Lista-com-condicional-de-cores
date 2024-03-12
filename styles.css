@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    
+li:last-child {
+    color:red ;
+}
+
+span:last-child{
+    color: red;
+}
+p:last-child {
+    color:blue
+}
